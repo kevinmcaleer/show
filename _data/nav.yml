@@ -1,4 +1,4 @@
 - name: home
-  link: /
+  link: /show/
 - name: about us
-  link: /aboutus
+  link: /show/aboutus
