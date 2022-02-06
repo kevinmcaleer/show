@@ -1,0 +1,4 @@
+{% assign nav = site.data.nav %}
+{% for item in nav %}
+<a href="{{item.link}}">{{ item.name }}</a>
+{% endfor %}

@@ -1,3 +1,5 @@
+{% include nav.html %}
+
 # Hello
 
 This is a **test**
